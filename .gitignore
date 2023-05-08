@@ -1,0 +1,7 @@
+node_modules
+.env
+yarn.lock
+artifacts-zk
+cache-zk
+deploymentLog/*
+package-lock.json
